@@ -26,26 +26,3 @@ img {
 }
 
 /* End global css */
-/* Start nav styles */
-
-/* Start nav styles */
-nav {
-  background-color: #f5f3ff;
-}
-
-nav .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-block: 18px;
-}
-
-nav .nav-links ul {
-  display: flex;
-  gap: 20px;
-}
-
-/* End nav styles */
-
-
-
